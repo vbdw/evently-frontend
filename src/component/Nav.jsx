@@ -87,7 +87,7 @@ export default function Nav() {
                         <div className="bg-white rounded-lg shadow-xl max-w-sm p-6">
                             <Dialog.Title className="text-lg font-bold text-gray-900">Confirm Deletion</Dialog.Title>
                             <Dialog.Description className="mt-2 text-sm text-gray-500">
-                                Are you sure you want to delete this event? This action cannot be undone.
+                                Are you sure you want to log out?
                             </Dialog.Description>
                             <div className="mt-4 flex justify-end gap-3">
                                 <button
